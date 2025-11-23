@@ -43,7 +43,7 @@ The Hospital Record Manager (HRM) is a comprehensive Java console application de
 
 Clone the Repository:
 
-git clone [https://github.com/Aastha-230425/Hospital-Record-Manager.git](
+git clone [https://github.com/Aastha-230425/Vityarthi-project.git](
 cd Hospital-Record-Manager
 
 
