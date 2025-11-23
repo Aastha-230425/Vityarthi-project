@@ -39,7 +39,7 @@ The Hospital Record Manager (HRM) is a comprehensive Java console application de
 
 -Version Control: Git.
 
-#Steps to Install & Run the Project
+# Steps to Install & Run the Project
 
 Clone the Repository:
 
