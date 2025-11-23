@@ -61,4 +61,4 @@ Validation Testing: Run the application and intentionally input invalid data (e.
 
 Assertion Check: Run the main class with the -ea flag enabled to check internal assumptions: java -ea Main.
 
-Screenshots (Conceptual)
+
