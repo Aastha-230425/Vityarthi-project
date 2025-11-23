@@ -53,7 +53,7 @@ Setup IDE: Open the project folder in your preferred Java IDE (Eclipse, IntelliJ
 
 Run: Compile and run the Main.java class.
 
-Instructions for Testing
+# Instructions for Testing
 
 Unit Testing: (Placeholder: Detailed unit tests will be provided in the test/ directory using JUnit for core business logic).
 
